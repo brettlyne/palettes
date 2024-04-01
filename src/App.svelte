@@ -136,7 +136,7 @@
 <div class="container">
     <div class="head">
         <h1>Chroma.js Color Palette Helper</h1>
-        <p>This <a href="https://github.com/gka/chroma.js" target="_blank">chroma.js</a>-powered tool is here to help us  <a target="_blank" href="http://vis4.net/blog/posts/mastering-multi-hued-color-scales/">mastering multi-hued, multi-stops color scales</a>.</p>
+        <p>This <a href="https://github.com/gka/chroma.js" target="_blank">chroma.js</a>-powered tool is here to help us  <a target="_blank" href="https://www.vis4.net/blog/mastering-multi-hued-color-scales/">mastering multi-hued, multi-stops color scales</a>.</p>
     </div>
     <Card step="1" title="What kind of palette do you want to create?">
         <div class="row">
